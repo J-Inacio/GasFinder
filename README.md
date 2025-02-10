@@ -51,7 +51,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 | Tela de Preços | Mapa Interativo | Sobre nós |
 | :------------: | :-------------: | :-------------: |
-| <img src="https://github.com/PedroDeVvV/GasFinder/raw/initial/.github/a2.png" width="300"> | <img src="https://github.com/PedroDeVvV/GasFinder/raw/initial/.github/a1.png" width="300"> | <img src="https://github.com/PedroDeVvV/GasFinder/raw/initial/.github/sobrenos.png">
+| <img src="https://github.com/PedroDeVvV/GasFinder/raw/initial/.github/a2.png" width="300"> | <img src="https://github.com/PedroDeVvV/GasFinder/raw/initial/.github/a1.png" width="300"> | <img src="https://github.com/PedroDeVvV/GasFinder/raw/initial/.github/sobrenos.png" width="300">
 
 ---
 
